@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+:root {
+  --primaria: #dbd9b7;
+  --secundaria: #c1c9c8;
+  --verdeclaro:  #a5b5ab;
+  --verdeescuro: #949a8e;
+  --roxoclaro: #615566;
+  --branco: #e7edf1;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
