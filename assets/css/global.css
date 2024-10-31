@@ -1,3 +1,5 @@
+@import url(./header.css);
+
 * {
   margin: 0;
   padding: 0;
@@ -6,12 +8,9 @@
 }
 
 :root {
-  --primaria: #dbd9b7;
-  --secundaria: #c1c9c8;
-  --verdeclaro:  #a5b5ab;
-  --verdeescuro: #949a8e;
-  --roxoclaro: #615566;
-  --branco: #e7edf1;
+  --principal: #f07657;
+  --preto: #131312;
+  --branco: #f5f1f0;
 }
 
 a {
