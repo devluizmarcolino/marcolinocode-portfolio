@@ -3,7 +3,8 @@
   padding-top: 0.5rem;
   display: flex;
   align-items: center;
-  justify-content: space-around
+  justify-content: space-around;
+  position: fixed;
 }
 
 .logo a {
