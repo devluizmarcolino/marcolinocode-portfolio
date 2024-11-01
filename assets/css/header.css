@@ -1,0 +1,32 @@
+.header {
+  width: 100%;
+  padding-top: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-around
+}
+
+.logo a {
+  color: var(--principal);
+  font-size: 1.4rem;
+  transition: 0.3s;
+}
+
+.logo a:hover {
+  color: var(--secundaria);
+}
+
+.icons {
+  display: flex;
+  gap: 1rem;
+}
+
+.icons i {
+  font-size: 1.8rem;
+  color: var(--principal);
+  transition: 0.3s;
+}
+
+.icons i:hover {
+  color: var(--secundaria);
+}
